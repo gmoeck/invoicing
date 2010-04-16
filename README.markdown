@@ -1,0 +1,2 @@
+#Rails Invoicing Plugin
+This is an extraction from the [invoicing gem](http://github.com/ept/invoicing)  written by Martin Kleppmann <ept@rubyforge.org>. It has been upgraded to work with Rails 3, and to function as a plugin.
